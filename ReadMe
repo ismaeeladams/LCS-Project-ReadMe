@@ -1,0 +1,32 @@
+# Day Care Log :)
+
+This is a WordPress plugin created using php. It can be used by schools, day cares, parents, etc...
+
+It was created to monitor childrens mood, behaviour & day-to-day activities.
+
+
+## FOR DEVS...
+
+- On **activating** the plugin all nessacerry pages are created.
+- On **deactivating** the plugin all pages that were created when the plugin was activated will be **REMOVED** from your WordPress website.
+- After Installing & activating the plugin on WordPress, create a menu that **ONLY** displays the Activities,Activities_c2, Details, Details_c2, Teachers & Parents pages.
+
+## Instructions on how to use Ultimate Member
+
+- After installing and Activating the Ultimate Member
+- Navigate to the Menus in the Appearance
+- Then choose what pages you want
+- Once you have chosen the pages you desire to have on your menu
+- Afterwards open the page drop-down and under the "Who can see this menu link?" select the "Logged In Users"
+- Once you do, select the roles that you would like to see specific pages in the nav menu when they log in
+- Once done press the Save Changes button at the bottom and ENJOY
+
+## Authors
+
+- Shane Stevens
+- Isma'eel Adams
+- Joshua Solomons
+- Sabelo Mdashe
+
+
+
